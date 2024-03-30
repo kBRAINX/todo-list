@@ -24,13 +24,3 @@
 
 <h1> Captures d’écran </h1>
 <img src="./Frontend/image/image.png" width="100%" height="500">
-
-
-<h1>Auteur</h1>
-Ce projet a été développé par:
- <ul>
-    <li>NGUEPSSI BRAYANNE</li>
-    <li>NOMO GABRIEL</li>
-    <li>ADA FRANCINE</li>
-    <li>NGO BASSOM ROSALIE</li>
- </ul>
